@@ -1,0 +1,6 @@
+
+#ingore
+
+.env
+
+node_modules
